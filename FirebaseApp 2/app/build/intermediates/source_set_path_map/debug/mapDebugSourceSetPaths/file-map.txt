@@ -1,52 +1,52 @@
-com.example.firebaseapp-transition-1.5.0-0 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/1369fdc36ed997d0ba4ad0c72539b4ce/transformed/transition-1.5.0/res
-com.example.firebaseapp-browser-1.4.0-1 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/148b1b273f2af49bf167ef51c57880b9/transformed/browser-1.4.0/res
-com.example.firebaseapp-profileinstaller-1.4.0-2 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/15b35abc292d28b8c37f385c7f842464/transformed/profileinstaller-1.4.0/res
-com.example.firebaseapp-appcompat-resources-1.7.0-3 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/1b9f12bd94dc0c0bc171c93d991833e6/transformed/appcompat-resources-1.7.0/res
-com.example.firebaseapp-core-common-2.0.3-4 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/2046327d3fff695b49edcb03f31e2374/transformed/core-common-2.0.3/res
-com.example.firebaseapp-lifecycle-service-2.6.2-5 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/20a6153f01c50cac7e7b1e3d1d77f404/transformed/lifecycle-service-2.6.2/res
-com.example.firebaseapp-play-services-measurement-api-22.1.2-6 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/2251af08857eb3c3030a08ecd461666f/transformed/play-services-measurement-api-22.1.2/res
-com.example.firebaseapp-emoji2-1.3.0-7 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/252b83174907ff33481c980fc3d546f2/transformed/emoji2-1.3.0/res
-com.example.firebaseapp-lifecycle-process-2.6.2-8 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/27abb91040b6ac2c09c4ee7f3c7548ef/transformed/lifecycle-process-2.6.2/res
-com.example.firebaseapp-customview-poolingcontainer-1.0.0-9 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/2b8031200e1a79748305ae247908fe20/transformed/customview-poolingcontainer-1.0.0/res
-com.example.firebaseapp-ads-adservices-1.0.0-beta05-10 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/3429af2990c2fc6f694f30c23cd3abdf/transformed/ads-adservices-1.0.0-beta05/res
-com.example.firebaseapp-coordinatorlayout-1.1.0-11 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/37715257829a0ddcba22cfacd98b29a6/transformed/coordinatorlayout-1.1.0/res
-com.example.firebaseapp-emoji2-views-helper-1.3.0-12 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/377384ae902db7caaa059cd65de7719c/transformed/emoji2-views-helper-1.3.0/res
-com.example.firebaseapp-core-ktx-1.13.0-13 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/3a0a85001470c60c4929e4028fa3bdfc/transformed/core-ktx-1.13.0/res
-com.example.firebaseapp-cardview-1.0.0-14 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/4121cf0e542a976cf2b344cb6e66317d/transformed/cardview-1.0.0/res
-com.example.firebaseapp-core-runtime-2.2.0-15 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/5c7f86d57533c6774200d63c4c1987fc/transformed/core-runtime-2.2.0/res
-com.example.firebaseapp-play-services-base-18.5.0-16 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/5d606b475d4b56bca5aefad755e28d55/transformed/play-services-base-18.5.0/res
-com.example.firebaseapp-play-services-basement-18.4.0-17 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/6a779e93420ee94424d3e5d03ebf0523/transformed/play-services-basement-18.4.0/res
-com.example.firebaseapp-lifecycle-livedata-core-2.6.2-18 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/6fd47670080a5a6e2a646df8482d6ab6/transformed/lifecycle-livedata-core-2.6.2/res
-com.example.firebaseapp-appcompat-1.7.0-19 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/74f2dc01051051792624e176e2463239/transformed/appcompat-1.7.0/res
-com.example.firebaseapp-firebase-common-21.0.0-20 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/76db93cbfd449853ed9fb11b67edf739/transformed/firebase-common-21.0.0/res
-com.example.firebaseapp-fragment-1.5.4-21 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/7dad8b493768473f41749ed19a432e12/transformed/fragment-1.5.4/res
-com.example.firebaseapp-annotation-experimental-1.4.0-22 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/7e6a37a90765276db0848e84f05614d2/transformed/annotation-experimental-1.4.0/res
-com.example.firebaseapp-ads-adservices-java-1.0.0-beta05-23 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/98283ae2c84fe59b2c45231560324a18/transformed/ads-adservices-java-1.0.0-beta05/res
-com.example.firebaseapp-recyclerview-1.3.2-24 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/a281f03b399df6876c02c7525ae1546f/transformed/recyclerview-1.3.2/res
-com.example.firebaseapp-recyclerview-selection-1.1.0-25 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/bcbc2af1b00d491e5cd3305178ce48d0/transformed/recyclerview-selection-1.1.0/res
-com.example.firebaseapp-activity-1.9.3-26 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/c6d4833d4844f5c28265f6c90bb472d8/transformed/activity-1.9.3/res
-com.example.firebaseapp-credentials-1.2.0-rc01-27 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/ca2718f7730fa588f9508735f217d944/transformed/credentials-1.2.0-rc01/res
-com.example.firebaseapp-drawerlayout-1.1.1-28 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/cd5cac47a33eb35eaab188936b19590c/transformed/drawerlayout-1.1.1/res
-com.example.firebaseapp-lifecycle-viewmodel-savedstate-2.6.2-29 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/ce580e3f4a579207fc99a7cfeef46feb/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
-com.example.firebaseapp-media-1.0.0-30 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/cf388012b163d3ce766dcb0c9c987589/transformed/media-1.0.0/res
-com.example.firebaseapp-constraintlayout-2.2.0-31 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/d1dcc89cb6ab171bd6ce78f7ae03ca4f/transformed/constraintlayout-2.2.0/res
-com.example.firebaseapp-firebase-ui-auth-8.0.0-32 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/d30bbb264faac86c36e590f0e045d382/transformed/firebase-ui-auth-8.0.0/res
-com.example.firebaseapp-play-services-auth-20.7.0-33 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/d54ad427227f5ed6194b11fe3568f248/transformed/play-services-auth-20.7.0/res
-com.example.firebaseapp-lifecycle-livedata-2.6.2-34 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/d6cae03541f332c67800a22e23cb05ec/transformed/lifecycle-livedata-2.6.2/res
-com.example.firebaseapp-material-1.12.0-35 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/d6df156c3f30a8ab3fae5081b7670dd5/transformed/material-1.12.0/res
-com.example.firebaseapp-lifecycle-runtime-2.6.2-36 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/df2188703cdb6abe0a2c9794dc85419a/transformed/lifecycle-runtime-2.6.2/res
-com.example.firebaseapp-lifecycle-viewmodel-2.6.2-37 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/e0c73abf3a28ea5bb3fd5a25f9d7fbd3/transformed/lifecycle-viewmodel-2.6.2/res
-com.example.firebaseapp-savedstate-1.2.1-38 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/e865ac99b89fa75f4a46f3a558e4384a/transformed/savedstate-1.2.1/res
-com.example.firebaseapp-glide-4.15.1-39 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/ea485b4386d0a5797ff4cc0c4099574d/transformed/glide-4.15.1/res
-com.example.firebaseapp-core-1.13.0-40 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/f2df479506d4d46f92b4d7915eea996e/transformed/core-1.13.0/res
-com.example.firebaseapp-viewpager2-1.1.0-beta02-41 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/f68fd92babdf94d2269aa35a7b2ae30a/transformed/viewpager2-1.1.0-beta02/res
-com.example.firebaseapp-credentials-play-services-auth-1.2.0-rc01-42 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/fc07d932b5b2a593ac3d4d4422dab3f8/transformed/credentials-play-services-auth-1.2.0-rc01/res
-com.example.firebaseapp-startup-runtime-1.1.1-43 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/fe535f92cc72dae98a0943ecd05cbd4d/transformed/startup-runtime-1.1.1/res
-com.example.firebaseapp-pngs-44 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/generated/res/pngs/debug
-com.example.firebaseapp-res-45 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/generated/res/processDebugGoogleServices
-com.example.firebaseapp-resValues-46 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/generated/res/resValues/debug
-com.example.firebaseapp-packageDebugResources-47 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.firebaseapp-packageDebugResources-48 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.firebaseapp-debug-49 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.firebaseapp-debug-50 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/src/debug/res
-com.example.firebaseapp-main-51 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/src/main/res
+com.example.firebaseapp-transition-1.5.0-0 C:\Users\Manoj\.gradle\caches\8.9\transforms\1369fdc36ed997d0ba4ad0c72539b4ce\transformed\transition-1.5.0\res
+com.example.firebaseapp-browser-1.4.0-1 C:\Users\Manoj\.gradle\caches\8.9\transforms\148b1b273f2af49bf167ef51c57880b9\transformed\browser-1.4.0\res
+com.example.firebaseapp-profileinstaller-1.4.0-2 C:\Users\Manoj\.gradle\caches\8.9\transforms\15b35abc292d28b8c37f385c7f842464\transformed\profileinstaller-1.4.0\res
+com.example.firebaseapp-appcompat-resources-1.7.0-3 C:\Users\Manoj\.gradle\caches\8.9\transforms\1b9f12bd94dc0c0bc171c93d991833e6\transformed\appcompat-resources-1.7.0\res
+com.example.firebaseapp-core-common-2.0.3-4 C:\Users\Manoj\.gradle\caches\8.9\transforms\2046327d3fff695b49edcb03f31e2374\transformed\core-common-2.0.3\res
+com.example.firebaseapp-lifecycle-service-2.6.2-5 C:\Users\Manoj\.gradle\caches\8.9\transforms\20a6153f01c50cac7e7b1e3d1d77f404\transformed\lifecycle-service-2.6.2\res
+com.example.firebaseapp-play-services-measurement-api-22.1.2-6 C:\Users\Manoj\.gradle\caches\8.9\transforms\2251af08857eb3c3030a08ecd461666f\transformed\play-services-measurement-api-22.1.2\res
+com.example.firebaseapp-emoji2-1.3.0-7 C:\Users\Manoj\.gradle\caches\8.9\transforms\252b83174907ff33481c980fc3d546f2\transformed\emoji2-1.3.0\res
+com.example.firebaseapp-lifecycle-process-2.6.2-8 C:\Users\Manoj\.gradle\caches\8.9\transforms\27abb91040b6ac2c09c4ee7f3c7548ef\transformed\lifecycle-process-2.6.2\res
+com.example.firebaseapp-customview-poolingcontainer-1.0.0-9 C:\Users\Manoj\.gradle\caches\8.9\transforms\2b8031200e1a79748305ae247908fe20\transformed\customview-poolingcontainer-1.0.0\res
+com.example.firebaseapp-ads-adservices-1.0.0-beta05-10 C:\Users\Manoj\.gradle\caches\8.9\transforms\3429af2990c2fc6f694f30c23cd3abdf\transformed\ads-adservices-1.0.0-beta05\res
+com.example.firebaseapp-coordinatorlayout-1.1.0-11 C:\Users\Manoj\.gradle\caches\8.9\transforms\37715257829a0ddcba22cfacd98b29a6\transformed\coordinatorlayout-1.1.0\res
+com.example.firebaseapp-emoji2-views-helper-1.3.0-12 C:\Users\Manoj\.gradle\caches\8.9\transforms\377384ae902db7caaa059cd65de7719c\transformed\emoji2-views-helper-1.3.0\res
+com.example.firebaseapp-core-ktx-1.13.0-13 C:\Users\Manoj\.gradle\caches\8.9\transforms\3a0a85001470c60c4929e4028fa3bdfc\transformed\core-ktx-1.13.0\res
+com.example.firebaseapp-cardview-1.0.0-14 C:\Users\Manoj\.gradle\caches\8.9\transforms\4121cf0e542a976cf2b344cb6e66317d\transformed\cardview-1.0.0\res
+com.example.firebaseapp-core-runtime-2.2.0-15 C:\Users\Manoj\.gradle\caches\8.9\transforms\5c7f86d57533c6774200d63c4c1987fc\transformed\core-runtime-2.2.0\res
+com.example.firebaseapp-play-services-base-18.5.0-16 C:\Users\Manoj\.gradle\caches\8.9\transforms\5d606b475d4b56bca5aefad755e28d55\transformed\play-services-base-18.5.0\res
+com.example.firebaseapp-play-services-basement-18.4.0-17 C:\Users\Manoj\.gradle\caches\8.9\transforms\6a779e93420ee94424d3e5d03ebf0523\transformed\play-services-basement-18.4.0\res
+com.example.firebaseapp-lifecycle-livedata-core-2.6.2-18 C:\Users\Manoj\.gradle\caches\8.9\transforms\6fd47670080a5a6e2a646df8482d6ab6\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.firebaseapp-appcompat-1.7.0-19 C:\Users\Manoj\.gradle\caches\8.9\transforms\74f2dc01051051792624e176e2463239\transformed\appcompat-1.7.0\res
+com.example.firebaseapp-firebase-common-21.0.0-20 C:\Users\Manoj\.gradle\caches\8.9\transforms\76db93cbfd449853ed9fb11b67edf739\transformed\firebase-common-21.0.0\res
+com.example.firebaseapp-fragment-1.5.4-21 C:\Users\Manoj\.gradle\caches\8.9\transforms\7dad8b493768473f41749ed19a432e12\transformed\fragment-1.5.4\res
+com.example.firebaseapp-annotation-experimental-1.4.0-22 C:\Users\Manoj\.gradle\caches\8.9\transforms\7e6a37a90765276db0848e84f05614d2\transformed\annotation-experimental-1.4.0\res
+com.example.firebaseapp-ads-adservices-java-1.0.0-beta05-23 C:\Users\Manoj\.gradle\caches\8.9\transforms\98283ae2c84fe59b2c45231560324a18\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.firebaseapp-recyclerview-1.3.2-24 C:\Users\Manoj\.gradle\caches\8.9\transforms\a281f03b399df6876c02c7525ae1546f\transformed\recyclerview-1.3.2\res
+com.example.firebaseapp-recyclerview-selection-1.1.0-25 C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\res
+com.example.firebaseapp-activity-1.9.3-26 C:\Users\Manoj\.gradle\caches\8.9\transforms\c6d4833d4844f5c28265f6c90bb472d8\transformed\activity-1.9.3\res
+com.example.firebaseapp-credentials-1.2.0-rc01-27 C:\Users\Manoj\.gradle\caches\8.9\transforms\ca2718f7730fa588f9508735f217d944\transformed\credentials-1.2.0-rc01\res
+com.example.firebaseapp-drawerlayout-1.1.1-28 C:\Users\Manoj\.gradle\caches\8.9\transforms\cd5cac47a33eb35eaab188936b19590c\transformed\drawerlayout-1.1.1\res
+com.example.firebaseapp-lifecycle-viewmodel-savedstate-2.6.2-29 C:\Users\Manoj\.gradle\caches\8.9\transforms\ce580e3f4a579207fc99a7cfeef46feb\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.firebaseapp-media-1.0.0-30 C:\Users\Manoj\.gradle\caches\8.9\transforms\cf388012b163d3ce766dcb0c9c987589\transformed\media-1.0.0\res
+com.example.firebaseapp-constraintlayout-2.2.0-31 C:\Users\Manoj\.gradle\caches\8.9\transforms\d1dcc89cb6ab171bd6ce78f7ae03ca4f\transformed\constraintlayout-2.2.0\res
+com.example.firebaseapp-firebase-ui-auth-8.0.0-32 C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\res
+com.example.firebaseapp-play-services-auth-20.7.0-33 C:\Users\Manoj\.gradle\caches\8.9\transforms\d54ad427227f5ed6194b11fe3568f248\transformed\play-services-auth-20.7.0\res
+com.example.firebaseapp-lifecycle-livedata-2.6.2-34 C:\Users\Manoj\.gradle\caches\8.9\transforms\d6cae03541f332c67800a22e23cb05ec\transformed\lifecycle-livedata-2.6.2\res
+com.example.firebaseapp-material-1.12.0-35 C:\Users\Manoj\.gradle\caches\8.9\transforms\d6df156c3f30a8ab3fae5081b7670dd5\transformed\material-1.12.0\res
+com.example.firebaseapp-lifecycle-runtime-2.6.2-36 C:\Users\Manoj\.gradle\caches\8.9\transforms\df2188703cdb6abe0a2c9794dc85419a\transformed\lifecycle-runtime-2.6.2\res
+com.example.firebaseapp-lifecycle-viewmodel-2.6.2-37 C:\Users\Manoj\.gradle\caches\8.9\transforms\e0c73abf3a28ea5bb3fd5a25f9d7fbd3\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.firebaseapp-savedstate-1.2.1-38 C:\Users\Manoj\.gradle\caches\8.9\transforms\e865ac99b89fa75f4a46f3a558e4384a\transformed\savedstate-1.2.1\res
+com.example.firebaseapp-glide-4.15.1-39 C:\Users\Manoj\.gradle\caches\8.9\transforms\ea485b4386d0a5797ff4cc0c4099574d\transformed\glide-4.15.1\res
+com.example.firebaseapp-core-1.13.0-40 C:\Users\Manoj\.gradle\caches\8.9\transforms\f2df479506d4d46f92b4d7915eea996e\transformed\core-1.13.0\res
+com.example.firebaseapp-viewpager2-1.1.0-beta02-41 C:\Users\Manoj\.gradle\caches\8.9\transforms\f68fd92babdf94d2269aa35a7b2ae30a\transformed\viewpager2-1.1.0-beta02\res
+com.example.firebaseapp-credentials-play-services-auth-1.2.0-rc01-42 C:\Users\Manoj\.gradle\caches\8.9\transforms\fc07d932b5b2a593ac3d4d4422dab3f8\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.firebaseapp-startup-runtime-1.1.1-43 C:\Users\Manoj\.gradle\caches\8.9\transforms\fe535f92cc72dae98a0943ecd05cbd4d\transformed\startup-runtime-1.1.1\res
+com.example.firebaseapp-pngs-44 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\generated\res\pngs\debug
+com.example.firebaseapp-res-45 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\generated\res\processDebugGoogleServices
+com.example.firebaseapp-resValues-46 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\generated\res\resValues\debug
+com.example.firebaseapp-packageDebugResources-47 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.firebaseapp-packageDebugResources-48 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.firebaseapp-debug-49 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.firebaseapp-debug-50 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\debug\res
+com.example.firebaseapp-main-51 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\res

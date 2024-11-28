@@ -1,5 +1,5 @@
-com.example.firebaseapp.test.app-core-1.6.1-0 /Users/laxmanrokaya/.gradle/caches/8.9/transforms/4e4f425b066c131f44001b40c5cc0630/transformed/core-1.6.1/res
-com.example.firebaseapp.test.app-androidTest-1 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/generated/res/resValues/androidTest/debug
-com.example.firebaseapp.test.app-mergeDebugAndroidTestResources-2 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.firebaseapp.test.app-mergeDebugAndroidTestResources-3 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.firebaseapp.test.app-debugAndroidTest-4 /Users/laxmanrokaya/Desktop/FirebaseAppDB/FirebaseApp 2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.firebaseapp.test.app-core-1.6.1-0 C:\Users\Manoj\.gradle\caches\8.9\transforms\4e4f425b066c131f44001b40c5cc0630\transformed\core-1.6.1\res
+com.example.firebaseapp.test.app-androidTest-1 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\generated\res\resValues\androidTest\debug
+com.example.firebaseapp.test.app-mergeDebugAndroidTestResources-2 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.firebaseapp.test.app-mergeDebugAndroidTestResources-3 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.firebaseapp.test.app-debugAndroidTest-4 D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
