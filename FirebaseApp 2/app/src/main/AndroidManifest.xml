@@ -26,8 +26,6 @@
             android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" /> <!-- Or equivalent theme -->
 
-        <!-- Register Activity -->
-        <activity android:name=".RegisterActivity" />
 
         <!-- Login Activity -->
         <activity
@@ -39,8 +37,8 @@
             </intent-filter>
         </activity>
 
-        <!-- EditMovie Activity -->
-        <activity android:name=".EditMovieActivity" />
+        <!-- SignUpActivity Activity -->
+        <activity android:name=".SignUpActivity" />
 
         <!-- Google Sign-In Metadata -->
         <meta-data
