@@ -1,4 +1,3 @@
 # FirebaseAppDB
 
-Sign In With Google Done <br>
-Login Manually Done <br>
+Issues with sign in and registration with google<br>
