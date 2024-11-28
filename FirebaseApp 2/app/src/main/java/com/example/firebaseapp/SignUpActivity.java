@@ -91,9 +91,13 @@ public class SignUpActivity extends AppCompatActivity {
     }
 
     private void signInWithGoogle() {
-        Intent signInIntent = mGoogleSignInClient.getSignInIntent();
-        startActivityForResult(signInIntent, RC_SIGN_IN);
+        // Sign out the current account before starting the sign-in process
+        mGoogleSignInClient.signOut().addOnCompleteListener(this, task -> {
+            Intent signInIntent = mGoogleSignInClient.getSignInIntent();
+            startActivityForResult(signInIntent, RC_SIGN_IN);
+        });
     }
+
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
