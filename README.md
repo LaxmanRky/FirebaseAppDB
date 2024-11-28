@@ -1,4 +1,4 @@
 # FirebaseAppDB
 
-Sign In With Google Done
-Login Manually Done
+Sign In With Google Done <br>
+Login Manually Done <br>
