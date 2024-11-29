@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.firebaseapp-mergeDebugResources-47:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "outputFile": "com.example.firebaseapp-mergeDebugResources-46:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Manoj\\.gradle\\caches\\8.9\\transforms\\d30bbb264faac86c36e590f0e045d382\\transformed\\firebase-ui-auth-8.0.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",

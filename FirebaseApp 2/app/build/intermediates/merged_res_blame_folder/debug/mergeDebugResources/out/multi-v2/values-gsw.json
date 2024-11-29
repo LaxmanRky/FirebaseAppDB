@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.firebaseapp-mergeDebugResources-47:/values-gsw/values-gsw.xml",
+            "outputFile": "com.example.firebaseapp-mergeDebugResources-46:/values-gsw/values-gsw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Manoj\\.gradle\\caches\\8.9\\transforms\\d30bbb264faac86c36e590f0e045d382\\transformed\\firebase-ui-auth-8.0.0\\res\\values-gsw\\values-gsw.xml",

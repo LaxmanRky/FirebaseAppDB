@@ -1,94 +1,110 @@
 [
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\menu_main_menu.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\menu\\main_menu.xml"
+        "merged": "com.example.firebaseapp-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.example.firebaseapp-main-50:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.firebaseapp-debug-49:/layout_activity_signup.xml.flat",
-        "source": "com.example.firebaseapp-main-51:/layout/activity_signup.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\drawable_ic_google_logo.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\drawable\\ic_google_logo.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\item_movie.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\drawable_error_image.png.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\drawable\\error_image.png"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\drawable_error_image.png.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\drawable\\error_image.png"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\drawable_placeholder_image.png.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\drawable\\placeholder_image.png"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\drawable_ic_google_logo.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\drawable\\ic_google_logo.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\drawable_placeholder_image.png.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\drawable\\placeholder_image.png"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_movie_item.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\movie_item.xml"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-debug-48:\\layout_activity_list_movies.xml.flat",
+        "source": "C:\\Users\\Manoj\\.gradle\\daemon\\8.9\\com.example.firebaseapp-main-50:\\layout\\activity_list_movies.xml"
     }
 ]

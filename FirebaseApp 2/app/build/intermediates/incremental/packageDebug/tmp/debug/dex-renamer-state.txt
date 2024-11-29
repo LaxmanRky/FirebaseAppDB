@@ -1,9 +1,9 @@
-#Thu Nov 28 15:54:34 EST 2024
-base.0=D\:\\Mobile Database Management\\GitHub Folder\\MDEV-1001-Labs-Manoj\\Assignment-3 MDEV1001\\FirebaseApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\Mobile Database Management\\GitHub Folder\\MDEV-1001-Labs-Manoj\\Assignment-3 MDEV1001\\FirebaseApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\Mobile Database Management\\GitHub Folder\\MDEV-1001-Labs-Manoj\\Assignment-3 MDEV1001\\FirebaseApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.3=D\:\\Mobile Database Management\\GitHub Folder\\MDEV-1001-Labs-Manoj\\Assignment-3 MDEV1001\\FirebaseApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.4=D\:\\Mobile Database Management\\GitHub Folder\\MDEV-1001-Labs-Manoj\\Assignment-3 MDEV1001\\FirebaseApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Thu Nov 28 19:56:50 EST 2024
+base.0=C\:\\Users\\Manoj\\Desktop\\Zip project\\GitFirebase\\FirebaseAppDB\\FirebaseApp 2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Manoj\\Desktop\\Zip project\\GitFirebase\\FirebaseAppDB\\FirebaseApp 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Manoj\\Desktop\\Zip project\\GitFirebase\\FirebaseAppDB\\FirebaseApp 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.3=C\:\\Users\\Manoj\\Desktop\\Zip project\\GitFirebase\\FirebaseAppDB\\FirebaseApp 2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.4=C\:\\Users\\Manoj\\Desktop\\Zip project\\GitFirebase\\FirebaseAppDB\\FirebaseApp 2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=15/classes.dex

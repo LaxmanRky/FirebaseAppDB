@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.firebaseapp-mergeDebugResources-47:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "com.example.firebaseapp-mergeDebugResources-46:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Manoj\\.gradle\\caches\\8.9\\transforms\\148b1b273f2af49bf167ef51c57880b9\\transformed\\browser-1.4.0\\res\\values-zh-rHK\\values-zh-rHK.xml",

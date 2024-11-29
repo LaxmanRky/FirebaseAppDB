@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.firebaseapp-mergeDebugResources-47:/values-hi/values-hi.xml",
+            "outputFile": "com.example.firebaseapp-mergeDebugResources-46:/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Manoj\\.gradle\\caches\\8.9\\transforms\\f2df479506d4d46f92b4d7915eea996e\\transformed\\core-1.13.0\\res\\values-hi\\values-hi.xml",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:2:1-53:12
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:2:1-107:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d6df156c3f30a8ab3fae5081b7670dd5\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d1dcc89cb6ab171bd6ce78f7ae03ca4f\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
@@ -14,9 +14,7 @@ MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Manoj\.gradle\ca
 MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Manoj\.gradle\caches\8.9\transforms\ca2718f7730fa588f9508735f217d944\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Manoj\.gradle\caches\8.9\transforms\fc07d932b5b2a593ac3d4d4422dab3f8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d54ad427227f5ed6194b11fe3568f248\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\a281f03b399df6876c02c7525ae1546f\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Manoj\.gradle\caches\8.9\transforms\f68fd92babdf94d2269aa35a7b2ae30a\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d58707fe01178e57d7fc09ee27df46a4\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\5e197b201357ae0d3c4adcee163db8af\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\66c70dd067025a59296761271a9f275c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\792162c55e641ac174ad884c2729b567\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
@@ -37,7 +35,8 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Manoj\.grad
 MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\75270f24664c6a748ce5bdd43f02e046\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\92d039acf1e02c1621818b6c79b2f48f\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\6b5cf0a6ce97f3ff65053acb565c479c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\2b8031200e1a79748305ae247908fe20\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Manoj\.gradle\caches\8.9\transforms\afc346e661a6b735f07d322642eda63f\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Manoj\.gradle\caches\8.9\transforms\98283ae2c84fe59b2c45231560324a18\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Manoj\.gradle\caches\8.9\transforms\3429af2990c2fc6f694f30c23cd3abdf\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\3a0a85001470c60c4929e4028fa3bdfc\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
@@ -100,18 +99,18 @@ MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Manoj\.gradle\caches\8.9\tran
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\a3b0172e19d8ac37d511c18cf9e8d27e\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Manoj\.gradle\caches\8.9\transforms\2046327d3fff695b49edcb03f31e2374\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:4:5-38
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:7:5-79
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:10:5-79
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\23a9278ab24a8f9ae26c624edc8d2908\transformed\firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
@@ -135,9 +134,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:
 MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\aeae6b91de5f48ed9786f3f257590657\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
 MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\aeae6b91de5f48ed9786f3f257590657\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:8:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\23a9278ab24a8f9ae26c624edc8d2908\transformed\firebase-auth-23.1.0\AndroidManifest.xml:25:5-67
@@ -159,18 +158,18 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\c5bf95d8ebc0451b217c01a619df9514\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\c5bf95d8ebc0451b217c01a619df9514\transformed\play-services-measurement-sdk-api-22.1.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.USE_BIOMETRIC
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:9:5-72
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:9:5-72
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:9:22-69
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:9:22-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:10:5-79
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:12:5-51:19
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:12:5-51:19
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:12:5-51:19
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:12:5-51:19
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:13:5-105:19
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:13:5-105:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d6df156c3f30a8ab3fae5081b7670dd5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
@@ -250,71 +249,75 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ma
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Manoj\.gradle\caches\8.9\transforms\2046327d3fff695b49edcb03f31e2374\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Manoj\.gradle\caches\8.9\transforms\2046327d3fff695b49edcb03f31e2374\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\f2df479506d4d46f92b4d7915eea996e\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:17:9-41
 	android:fullBackupContent
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:15:9-54
 	android:roundIcon
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:18:9-54
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:18:9-54
 	tools:targetApi
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:21:9-29
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:21:9-29
 	android:icon
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:20:9-49
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:20:9-49
 	android:dataExtractionRules
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:14:9-65
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:14:9-65
 	android:usesCleartextTraffic
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:22:9-44
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:22:9-44
 activity#com.example.firebaseapp.MainActivity
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:25:9-27:75
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:25:9-27:75
 	android:theme
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:27:13-72
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:26:13-41
 activity#com.example.firebaseapp.LoginActivity
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:31:9-38:20
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:31:9-38:20
 	android:exported
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:32:13-42
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:32:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:34:13-37:29
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:36:27-74
 activity#com.example.firebaseapp.SignUpActivity
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:41:9-52
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:41:9-52
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:41:19-49
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:41:19-49
+activity#com.example.firebaseapp.ListMoviesActivity
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:42:19-53
 meta-data#com.google.android.gms.auth.api.signin.CLIENT_ID
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:44:9-46:61
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:44:9-46:61
 	android:value
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:46:13-58
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:46:13-58
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:45:13-76
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:45:13-76
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:47:9-49:49
+ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:47:9-49:49
 	android:value
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:49:13-46
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:49:13-46
 	android:name
-		ADDED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:48:13-69
+		ADDED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:48:13-69
 uses-sdk
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
-INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d6df156c3f30a8ab3fae5081b7670dd5\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
@@ -335,12 +338,8 @@ MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Manoj\.gradle\caches\8.9\transforms\fc07d932b5b2a593ac3d4d4422dab3f8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d54ad427227f5ed6194b11fe3568f248\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d54ad427227f5ed6194b11fe3568f248\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\a281f03b399df6876c02c7525ae1546f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\a281f03b399df6876c02c7525ae1546f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Manoj\.gradle\caches\8.9\transforms\f68fd92babdf94d2269aa35a7b2ae30a\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Manoj\.gradle\caches\8.9\transforms\f68fd92babdf94d2269aa35a7b2ae30a\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d58707fe01178e57d7fc09ee27df46a4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d58707fe01178e57d7fc09ee27df46a4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\5e197b201357ae0d3c4adcee163db8af\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\5e197b201357ae0d3c4adcee163db8af\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\66c70dd067025a59296761271a9f275c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -381,8 +380,10 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\92d039acf1e02c1621818b6c79b2f48f\transformed\play-services-measurement-impl-22.1.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\6b5cf0a6ce97f3ff65053acb565c479c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\6b5cf0a6ce97f3ff65053acb565c479c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\2b8031200e1a79748305ae247908fe20\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\2b8031200e1a79748305ae247908fe20\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\bcbc2af1b00d491e5cd3305178ce48d0\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Manoj\.gradle\caches\8.9\transforms\afc346e661a6b735f07d322642eda63f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Manoj\.gradle\caches\8.9\transforms\afc346e661a6b735f07d322642eda63f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Manoj\.gradle\caches\8.9\transforms\98283ae2c84fe59b2c45231560324a18\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
 MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Manoj\.gradle\caches\8.9\transforms\98283ae2c84fe59b2c45231560324a18\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Manoj\.gradle\caches\8.9\transforms\3429af2990c2fc6f694f30c23cd3abdf\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
@@ -508,9 +509,9 @@ MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Manoj\.gradle\c
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\23a9278ab24a8f9ae26c624edc8d2908\transformed\firebase-auth-23.1.0\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml
 meta-data#com.google.android.gms.version
 ADDED from [com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:14:9-16:69
 MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\6a779e93420ee94424d3e5d03ebf0523\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122

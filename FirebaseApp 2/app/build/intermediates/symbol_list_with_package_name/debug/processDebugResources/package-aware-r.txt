@@ -3368,6 +3368,7 @@ id country_list_layout
 id country_list_popup_anchor
 id cradle
 id criticsRatingEditText
+id criticsRatingTextView
 id cross_device_linking_body
 id currentState
 id custom
@@ -3379,6 +3380,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteButton
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -3408,6 +3410,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editButton
 id editTextEmail
 id editTextName
 id editTextPassword
@@ -3488,7 +3491,6 @@ id info
 id invisible
 id invisible_frame
 id inward
-id is_pooling_container_tag
 id italic
 id item_touch_helper_previous_elevation
 id jumpToEnd
@@ -3545,9 +3547,13 @@ id month_navigation_next
 id month_navigation_previous
 id month_title
 id motion_base
+id movieRatingTextView
 id movieRecyclerView
 id movieStudioEditText
+id movieStudioTextView
+id movieThumbnailImageView
 id movieTitleEditText
+id movieTitleTextView
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
@@ -3630,7 +3636,6 @@ id phone_button
 id phone_layout
 id phone_number
 id pin
-id pooling_container_listener_holder_tag
 id position
 id postLayout
 id pressed
@@ -3651,7 +3656,7 @@ id right_side
 id root
 id rounded
 id row_index_key
-id saveMovieButton
+id saveButton
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3714,6 +3719,7 @@ id staticPostLayout
 id status_bar_latest_event_content
 id stop
 id stretch
+id studioTextView
 id submenuarrow
 id submit_area
 id supportScrollUp
@@ -3753,6 +3759,7 @@ id ticker
 id time
 id title
 id titleDividerNoCustom
+id titleTextView
 id title_template
 id toggle
 id top
@@ -3917,6 +3924,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_list_movies
 layout activity_login
 layout activity_main
 layout activity_signup
@@ -3966,6 +3974,7 @@ layout fui_welcome_back_idp_prompt_layout
 layout fui_welcome_back_password_prompt_layout
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
+layout item_movie
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3985,6 +3994,7 @@ layout material_time_input
 layout material_timepicker
 layout material_timepicker_dialog
 layout material_timepicker_textinput_display
+layout movie_item
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title

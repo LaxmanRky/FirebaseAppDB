@@ -1,53 +1,58 @@
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Movie input fields and save button -->
     <EditText
         android:id="@+id/movieTitleEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Movie Title" />
+        android:hint="Movie Title"
+        android:inputType="text" />
 
     <EditText
         android:id="@+id/movieStudioEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Studio" />
-
-    <EditText
-        android:id="@+id/thumbnailUrlEditText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Thumbnail URL" />
+        android:hint="Studio"
+        android:inputType="text" />
 
     <EditText
         android:id="@+id/criticsRatingEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Critics Rating" />
+        android:hint="Critics Rating"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/thumbnailUrlEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Thumbnail URL"
+        android:inputType="textUri" />
+
+    <ImageView
+        android:id="@+id/movieThumbnailImageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/ic_launcher_foreground"
+        android:layout_marginTop="8dp"
+        android:scaleType="centerCrop" />
 
     <CheckBox
         android:id="@+id/favoriteCheckBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Is this your favorite?" />
+        android:text="Favorite" />
 
     <Button
-        android:id="@+id/saveMovieButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Save Movie"
-        android:onClick="saveMovieData" />
-
-    <!-- RecyclerView for displaying movie list -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/movieRecyclerView"
+        android:id="@+id/saveButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:scrollbars="vertical" />
+        android:text="Save Movie"
+        android:onClick="saveMovie" />
+
+
 </LinearLayout>

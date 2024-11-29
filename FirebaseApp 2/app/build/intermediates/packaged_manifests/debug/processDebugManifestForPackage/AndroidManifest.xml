@@ -61,7 +61,7 @@
 
         <!-- SignUpActivity Activity -->
         <activity android:name="com.example.firebaseapp.SignUpActivity" />
-
+        <activity android:name="com.example.firebaseapp.ListMoviesActivity" />
         <!-- Google Sign-In Metadata -->
         <meta-data
             android:name="com.google.android.gms.auth.api.signin.CLIENT_ID"

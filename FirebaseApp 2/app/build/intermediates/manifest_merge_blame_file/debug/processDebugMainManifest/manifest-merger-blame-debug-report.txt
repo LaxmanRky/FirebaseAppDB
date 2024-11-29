@@ -10,17 +10,17 @@
 10
 11    <!-- Permissions -->
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:7:5-79
-12-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:7:22-76
+12-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:8:5-67
-13-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:8:22-64
+13-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:8:22-64
 14    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-14-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:9:5-72
-14-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:9:22-69
+14-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:9:5-72
+14-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:9:22-69
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:10:5-79
-15-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:10:22-76
+15-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:10:22-76
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
 16-->[com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\2251af08857eb3c3030a08ecd461666f\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:24:5-68
 16-->[com.google.android.gms:play-services-measurement-api:22.1.2] C:\Users\Manoj\.gradle\caches\8.9\transforms\2251af08857eb3c3030a08ecd461666f\transformed\play-services-measurement-api-22.1.2\AndroidManifest.xml:24:22-65
@@ -52,78 +52,80 @@
 27-->[androidx.core:core:1.13.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\f2df479506d4d46f92b4d7915eea996e\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 28
 29    <application
-29-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:12:5-51:19
+29-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:12:5-51:19
 30        android:allowBackup="true"
-30-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:13:9-35
+30-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:13:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.13.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\f2df479506d4d46f92b4d7915eea996e\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 32        android:dataExtractionRules="@xml/data_extraction_rules"
-32-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:14:9-65
+32-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:14:9-65
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:fullBackupContent="@xml/backup_rules"
-35-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:15:9-54
+35-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:15:9-54
 36        android:icon="@mipmap/ic_launcher"
-36-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:16:9-43
+36-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:16:9-43
 37        android:label="@string/app_name"
-37-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:17:9-41
+37-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:17:9-41
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:18:9-54
+38-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:18:9-54
 39        android:supportsRtl="true"
-39-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:19:9-35
+39-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:19:9-35
 40        android:testOnly="true"
 41        android:theme="@style/Theme.FirebaseApp"
-41-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:20:9-49
+41-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:20:9-49
 42        android:usesCleartextTraffic="true" > <!-- Allows cleartext traffic for Firebase and other services -->
-42-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:22:9-44
+42-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:22:9-44
 43
 44
 45        <!-- Main Activity -->
 46        <activity
-46-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:25:9-27:75
+46-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:25:9-27:75
 47            android:name="com.example.firebaseapp.MainActivity"
-47-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:26:13-41
+47-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:26:13-41
 48            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" /> <!-- Or equivalent theme -->
-48-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:27:13-72
+48-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:27:13-72
 49
 50
 51        <!-- Login Activity -->
 52        <activity
-52-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:31:9-38:20
+52-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:31:9-38:20
 53            android:name="com.example.firebaseapp.LoginActivity"
-53-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:32:13-42
+53-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:32:13-42
 54            android:exported="true" >
-54-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:33:13-36
+54-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:33:13-36
 55            <intent-filter>
-55-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:34:13-37:29
+55-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:34:13-37:29
 56                <action android:name="android.intent.action.MAIN" />
-56-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:35:17-69
-56-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:35:25-66
+56-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:35:17-69
+56-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:35:25-66
 57
 58                <category android:name="android.intent.category.LAUNCHER" />
-58-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:36:17-77
-58-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:36:27-74
+58-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:36:17-77
+58-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:36:27-74
 59            </intent-filter>
 60        </activity>
 61
 62        <!-- SignUpActivity Activity -->
 63        <activity android:name="com.example.firebaseapp.SignUpActivity" />
-63-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:41:9-52
-63-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:41:19-49
-64
+63-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:41:9-52
+63-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:41:19-49
+64        <activity android:name="com.example.firebaseapp.ListMoviesActivity" />
+64-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:42:9-56
+64-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:42:19-53
 65        <!-- Google Sign-In Metadata -->
 66        <meta-data
-66-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:44:9-46:61
+66-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:44:9-46:61
 67            android:name="com.google.android.gms.auth.api.signin.CLIENT_ID"
-67-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:45:13-76
+67-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:45:13-76
 68            android:value="@string/default_web_client_id" />
-68-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:46:13-58
+68-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:46:13-58
 69        <meta-data
-69-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:47:9-49:49
+69-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:47:9-49:49
 70            android:name="com.google.android.gms.ads.APPLICATION_ID"
-70-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:48:13-69
+70-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:48:13-69
 71            android:value="your-admob-app-id" />
-71-->D:\Mobile Database Management\GitHub Folder\MDEV-1001-Labs-Manoj\Assignment-3 MDEV1001\FirebaseApp\app\src\main\AndroidManifest.xml:49:13-46
+71-->C:\Users\Manoj\Desktop\Zip project\GitFirebase\FirebaseAppDB\FirebaseApp 2\app\src\main\AndroidManifest.xml:49:13-46
 72        <meta-data
 72-->[com.firebaseui:firebase-ui-auth:8.0.0] C:\Users\Manoj\.gradle\caches\8.9\transforms\d30bbb264faac86c36e590f0e045d382\transformed\firebase-ui-auth-8.0.0\AndroidManifest.xml:14:9-16:69
 73            android:name="com.google.android.gms.version"

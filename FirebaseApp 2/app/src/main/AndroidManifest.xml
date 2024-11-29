@@ -39,7 +39,7 @@
 
         <!-- SignUpActivity Activity -->
         <activity android:name=".SignUpActivity" />
-
+        <activity android:name=".ListMoviesActivity" />
         <!-- Google Sign-In Metadata -->
         <meta-data
             android:name="com.google.android.gms.auth.api.signin.CLIENT_ID"
